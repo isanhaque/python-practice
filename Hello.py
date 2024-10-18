@@ -14,6 +14,7 @@ print(30/4)
 #see how you can use // to round down instead of getting a remainder
 print(30//4)
 
+
 #learn symbols (logical operators, conditionals), data types, data structures (arrays, sets, tuples, dictionaries),
 # for loops, while loops, scope, functions, object-oriented programming
 #Turn off the ai/autocomplete
